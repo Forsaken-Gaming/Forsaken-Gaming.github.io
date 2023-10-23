@@ -1,0 +1,23 @@
+body {
+    background-color:slategrey;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+}
+
+.assign {
+    /* display: flex; */
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color:steelblue;
+}
+
+.assign img {
+    width: 1000px;
+    padding: 10px;
+}
