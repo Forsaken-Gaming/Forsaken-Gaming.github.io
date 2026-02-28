@@ -1,11 +1,11 @@
 body {
-    background-color:rgb(91, 91, 91);
-    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(255, 255, 255);
+    font-family: 'Roboto', Roboto, monospace;
     text-align: center;
 }
 
 h1 {
-    color:white;
+    color:black;
     text-align: center;
 }
 
