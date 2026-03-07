@@ -1,12 +1,10 @@
 body {
     background-color:rgb(99, 99, 99);
     font-family: 'Roboto', Roboto, monospace;
-    text-align: center;
 }
 
 h1 {
     color:white;
-    text-align: center;
 }
 
 .assign {
@@ -38,4 +36,10 @@ a {
 a:hover {
     text-decoration: none;
     color: hsl(37, 11%, 29%)
+}
+p {
+    color:white
+}
+h3 {
+    color:white
 }
