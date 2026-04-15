@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #3D54E7;
+    background: linear-gradient(to bottom, #1f2dbb, #3D54E7);
     color: white;
 }
 
@@ -61,6 +61,14 @@ section {
     font-size: 1.5rem;
     margin-bottom: 20px;
     opacity: 0.85;
+}
+
+a {
+    color: #00E5FF; /* bright cyan */
+}
+
+a:hover {
+    color: #66F2FF;
 }
 
 .description {
@@ -168,7 +176,7 @@ p {
 
 .cardGrid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 20px;
     margin-top: 20px;
 }
